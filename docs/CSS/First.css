@@ -1,0 +1,20 @@
+/* 背景 */
+body { background:linear-gradient(to left top, #006F50, #303510); color:#cccccc; }
+
+/* 詳細項目 */
+li { color:#00E000; font-size:20px; line-height:1.5; }
+
+/* タイトル */
+h1 { color:#80F840 }
+
+/* 項目 */
+h2 { color:#FFA030 }
+
+/* 重要 */
+#Here { color:#FF0000; font-size:22px; }
+
+/* 注目ポイント */
+#Check { color:#FFFF00; font-size:16px; }
+
+/* ゲームジャンル */
+#GameGenre { color:#FF00F0; font-size:22px; }
